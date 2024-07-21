@@ -10,6 +10,10 @@
 
 ## 学习路线
 
+### 把DragonOS运行起来
+
+按照[构建DragonOS](https://docs.dragonos.org/zh-cn/latest/introduction/build_system.html)的教程，把DragonOS在你的电脑上运行起来！
+
 ### 语言学习
 
 Rust语言作为DragonOS社区最主要的开发语言，在开始开发之前，您需要掌握它！
