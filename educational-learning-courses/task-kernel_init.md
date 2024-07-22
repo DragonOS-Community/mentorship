@@ -3,7 +3,7 @@
 
 ## 信息
 
-- 任务ID（按照添加任务的PR的id来填写，比如#233）
+- 任务ID: #4
 - 导师名单
   - [黄铭涛](https://github.com/1037827920): Sig-Cloud-Provider, 1037827920@qq.com
 - 难度：2颗星
