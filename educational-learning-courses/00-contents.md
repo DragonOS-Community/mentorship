@@ -8,4 +8,4 @@
 
 ## 源码阅读任务
 
-// TODO 待添加
+- [task-kernel_init](task-kernel_init.md)
