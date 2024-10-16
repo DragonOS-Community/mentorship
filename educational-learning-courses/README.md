@@ -40,7 +40,7 @@ Rust语言作为DragonOS社区最主要的开发语言，在开始开发之前�
 - 学员行为受[DragonOS社区行为准则]约束。
 
 [01-Rust语言学习]: /educational-learning-courses/01-rust-lang.md
-[教育学习课程-目录]: /00-contents.md
+[教育学习课程-目录]: ./00-contents.md
 [mentorship仓库]: https://github.com/DragonOS-Community/mentorship.md
 [DragonOS社区导师指南]: https://community.dragonos.org/mentorship/mentor-guide.html
 [DragonOS社区行为准则]: https://community.dragonos.org/contributors/code_of_conduct.html
