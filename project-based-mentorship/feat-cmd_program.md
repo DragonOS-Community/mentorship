@@ -1,8 +1,10 @@
 # 用rust写个能再DragonOS上跑的简易命令行程序
 
-**导师:** [val213](https://github.com/val213), Sig-Main, 1042594899@qq.com
+## 信息
 
-**bbs链接:** https://bbs.dragonos.org.cn/t/topic/371
+- 任务ID：#6
+- 导师: [val213](https://github.com/val213), Sig-Main, 1042594899@qq.com
+- bbs链接: https://bbs.dragonos.org.cn/t/topic/371 
 
 > v0.1.0，后续需要的话可能会有补充
 
