@@ -2,6 +2,8 @@
 
 **导师:** [Samuka007](https://github.com/Samuka007), Sig-Network, samuka007@qq.com
 
+**bbs链接:** https://bbs.dragonos.org.cn/t/topic/369
+
 ## 任务说明
 
 查看bug修复的commit，知道为什么修改后行为正常了，[相关PR](https://github.com/DragonOS-Community/DragonOS/pull/673)

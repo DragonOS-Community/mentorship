@@ -2,6 +2,8 @@
 
 **导师:** [val213](https://github.com/val213), Sig-Main, 1042594899@qq.com
 
+**bbs链接:** https://bbs.dragonos.org.cn/t/topic/371
+
 > v0.1.0，后续需要的话可能会有补充
 
 > 这是一个相对灵活的任务，你可以尽情探索每个命令的高级用法和各种参数的灵活配置，依照工具的官方文档（例如Gnu xxx Manul），尽可能的实现该工具的各种参数。

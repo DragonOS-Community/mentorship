@@ -2,6 +2,8 @@
 
 **导师:** [smallcjy](https://github.com/smallcjy), Sig-Network, 2628035541@qq.com
 
+**bbs链接:** https://bbs.dragonos.org.cn/t/topic/373
+
 **难度：** 中等
 
 **前置学习目标：**

@@ -18,7 +18,7 @@
   - kernel/src/sched/mod.rs
   - kernel/src/time/timekeeping.rs
   - kernel/src/process/kthread.rs
-
+- bbs链接: https://bbs.dragonos.org.cn/t/topic/372
 
 ## 任务的简介
 
