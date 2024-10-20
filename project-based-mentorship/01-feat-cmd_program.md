@@ -2,7 +2,6 @@
 
 ## 信息
 
-- 任务ID：#6
 - 导师: [val213](https://github.com/val213), Sig-Main, 1042594899@qq.com
 - bbs链接: https://bbs.dragonos.org.cn/t/topic/371 
 
