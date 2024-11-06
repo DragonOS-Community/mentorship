@@ -12,7 +12,7 @@
 
 ### 把DragonOS运行起来
 
-按照[构建DragonOS](https://docs.dragonos.org/zh-cn/latest/introduction/build_system.html)的教程，把DragonOS在你的电脑上运行起来！
+按照[构建DragonOS](https://docs.dragonos.org.cn/introduction/build_system.html)的教程，把DragonOS在你的电脑上运行起来！
 
 ### 语言学习
 
