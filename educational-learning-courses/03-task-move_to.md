@@ -1,8 +1,10 @@
 # 分析 move_to 系统调用错误的修复
 
-**导师:** [Samuka007](https://github.com/Samuka007), Sig-Network, samuka007@qq.com
+## 信息
 
-**bbs链接:** https://bbs.dragonos.org.cn/t/topic/369
+- 任务ID：#5
+- 导师：[Samuka007](https://github.com/Samuka007), Sig-Network, samuka007@qq.com
+- bbs链接：https://bbs.dragonos.org.cn/t/topic/369
 
 ## 任务说明
 
